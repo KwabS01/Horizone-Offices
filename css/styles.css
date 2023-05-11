@@ -1,0 +1,24 @@
+/*.col-md-4{
+	background-color: blue;
+	text-align: center;
+	align-items: center;
+}.h1{color: blue}
+#footer{
+	text-align: center;
+	height: 10vh;
+	width: 100%;
+	border: 5px solid black;
+}
+.h1{
+	color: orange;
+}
+.footer{
+	background-color: red;
+	height: 10vh;
+	width: 100%;
+	border: 2px solid black;
+}
+.m-autoflag{
+	align-items: center;
+}
+*/
